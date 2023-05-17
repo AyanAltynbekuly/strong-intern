@@ -1,4 +1,5 @@
 # Тестовое задания для Strong Team
+ReactJS + TailwindCSS + Firebase
 
 Аян Алтынбекулы
 
