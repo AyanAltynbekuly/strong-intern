@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/strong-intern/static/css/main.887e8b32.css",
+    "main.js": "/strong-intern/static/js/main.1205f589.js",
+    "index.html": "/strong-intern/index.html",
+    "main.887e8b32.css.map": "/strong-intern/static/css/main.887e8b32.css.map",
+    "main.1205f589.js.map": "/strong-intern/static/js/main.1205f589.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.887e8b32.css",
+    "static/js/main.1205f589.js"
+  ]
+}
